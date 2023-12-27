@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+p{
+    background-color: rgb(51, 109, 172);
+    color: white;
+    margin: 50px;
+}
+
+h3{
+    font-family: cursive;
+}
